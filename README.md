@@ -19,7 +19,7 @@ The game is played by five players. Each player takes one of the following roles
 
 The Sheriff is always in the middle of the map. Positions for other players are randomly assigned. 
 
-These four roles are printed on each corner of your radar. If you have taken one role, the map near its corresponding corner is revealed. For example, in figure 1, the bottom-left corner of this map is revealed, which means that I play as one of the Outlaws in this game. 
+These four roles are printed on each corner of your radar. If you have taken one role, the map near its corresponding corner is revealed. Only you can see your role revealation. For example, in figure 1, the bottom-left corner of this map is revealed, which means that I play as one of the Outlaws in this game. 
 
 ![Figure 1](./Figures/Figure-1.png)
 
