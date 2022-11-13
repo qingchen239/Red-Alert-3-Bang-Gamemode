@@ -21,7 +21,7 @@ The Sheriff is always in the middle of the map. Positions for other players are 
 
 These four roles are printed on each corner of your radar. If you have taken one role, the map near its corresponding corner is revealed. For example, in figure 1, the bottom-left corner of this map is revealed, which means that I play as one of the Outlaws in this game. 
 
-![Figure 1](./Figures/Figure 1.png)
+![Figure 1](./Figures/Figure-1.png)
 
 ### During the game
 
@@ -29,7 +29,7 @@ There are a few permanent reveals on the map that helps you to figure out the si
 
 When one player is killed, the broadcast will announce to everyone that a player of a corresponding role has been killed, and the map corner corresponding to his role will be revealed permanently. For example, in figure 2, the deputy has been killed, the broadcast announces his death, and the map corner corresponds to the Deputy has been revealed. 
 
-![Figure 2](./Figures/Figure 2.png)
+![Figure 2](./Figures/Figure-2.png)
 
 ### End of the game
 
@@ -56,7 +56,7 @@ else if Sheriff is dead and more than 1 Deputy is alive:
 
 If any one player or group of players has completed his, her, or their objective, he, she, or they will win, and other player players will lose. For example, in figure 3, the Outlaw has killed the Sheriff, and the Outlaws win. 
 
-![Figure 3](./Figures/Figure 3.png)
+![Figure 3](./Figures/Figure-3.png)
 
 Caution: If the Renegade kills both the Outlaws, and the Sheriff, but leaves the Deputy alive, the Renegade does not win the game. 
 
