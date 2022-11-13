@@ -4,7 +4,7 @@ This is a new game method named "Bang Game" for Red Alert 3, which is allowed fi
 
 ## Languages
 
-English | [简体中文](./README.chs.md) | [繁體中文](./README.cht.md)
+English | [简体中文](./READMES/README.chs.md) | [繁體中文](./READMES/README.cht.md)
 
 ## How to play
 
