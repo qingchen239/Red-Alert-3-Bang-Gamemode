@@ -10,7 +10,7 @@ English | [简体中文](./READMES/README.chs.md) | [繁體中文](./READMES/REA
 
 ### Before the game
 
-The game is played by five players. Each player takes one of the following roles: 
+The game is played by five players. Each player takes one of the following roles randomly: 
 
 - Sheriff x 1, 
 - Deputy Sheriff x 1, 
