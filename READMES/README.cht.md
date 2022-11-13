@@ -4,7 +4,7 @@
 
 ## 語言
 
-繁體中文 | [English](./READMES/README.md) | [简体中文](./READMES/README.chs.md)
+繁體中文 | [English](./README.md) | [简体中文](./READMES/README.chs.md)
 
 ## 怎麼玩
 
