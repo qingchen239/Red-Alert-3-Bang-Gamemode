@@ -27,7 +27,7 @@ These four roles are printed on each corner of your radar. If you have taken one
 
 There are a few permanent reveals on the map that helps you to figure out the situation on the battlefield. 
 
-When one player is killed, the broadcast will announce to everyone that a player of a corresponding role has been killed, and the map corner corresponding to his role will be revealed permanently. Only you can see your role revealiation. For example, in figure 2, the deputy has been killed, the broadcast announces his death, and the map corner corresponds to the Deputy has been revealed. 
+When one player is killed, the broadcast will announce to everyone that a player of a corresponding role has been killed, and the map corner corresponding to his role will be revealed permanently. Everyone can see his role revealiation. For example, in figure 2, the deputy has been killed, the broadcast announces his death, and the map corner corresponds to the Deputy has been revealed. 
 
 ![Figure 2](./Figures/Figure-1.2.png)
 
