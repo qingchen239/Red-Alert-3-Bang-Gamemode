@@ -1,6 +1,6 @@
-# Red Alert 3 Bang Game Tutorial
+# Red Alert 3 Bang Gamemode Tutorial
 
-This is a new game method named "Bang Game" for Red Alert 3, which is allowed five players(better be human) to play. In this game method, gamers should play different roles, and accomplish different goals to achieve victory. 
+This is a new gamemode named "Bang Game" for Red Alert 3, which is allowed five players(better be human) to play. In this game method, gamers should play different roles, and accomplish different goals to achieve victory. 
 
 ## Languages
 
