@@ -64,6 +64,6 @@ Everyone is free to modify the maps in this repository, and to distribute modifi
 
 - To note to other people that that map is not the original version. 
 
-- let them know who modified this map and how to connect to you. 
+- Let other people know who modified this map and how to connect to you. 
 
 - Do not use the same name with other derivatives. (You may add your own name on the map name. )
