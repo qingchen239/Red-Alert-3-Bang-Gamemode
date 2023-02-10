@@ -56,4 +56,14 @@ If any one player or group of players has completed his, her, or their objective
 
 ![Figure 3](./Figures/Figure-1.3.png)
 
-Caution: If the Renegade kills the Outlaws, and the Sheriff, but leaves the Deputy alive, the Renegade does not win the game. 
+__Caution: If the Renegade kills the Outlaws, and the Sheriff, but leaves the Deputy alive, the Renegade does not win the game.__
+
+## Derivatives rules
+
+Everyone is free to modify the maps in this repository, and to distribute modified and therefore derivative works __when following these rules__:
+
+- To note to other people that that map is not the original version. 
+
+- let them know who modified this map and how to connect to you. 
+
+- Do not use the same name with other derivatives. (You may add your own name on the map name. )
