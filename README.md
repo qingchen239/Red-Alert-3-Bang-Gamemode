@@ -60,7 +60,7 @@ __Caution: If the Renegade kills the Outlaws, and the Sheriff, but leaves the De
 
 ## Derivatives rules
 
-Everyone is free to modify the maps in this repository, and to distribute modified and therefore derivative works __when following these rules__:
+Everyone is free to modify the maps in this repository and to distribute modified and therefore derivative works, __when following these rules__:
 
 - To note to other people that that map is not the original version. 
 
