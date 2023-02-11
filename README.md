@@ -67,3 +67,7 @@ Everyone is free to modify the maps in this repository and to distribute modifie
 - Let other people know who modified this map and how to connect to you. 
 
 - Do not use the same name with other derivatives. (You may add your own name on the map name. )
+
+## Connect with me
+
+Discord: Qing Chen#1901
