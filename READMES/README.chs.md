@@ -51,12 +51,13 @@ else if Outlaws are dead and Renegate is dead and Sheriff is dead:
 else if Sheriff is dead and more than 1 Deputy is alive:
 	nobody wins
 ```
+__注意：如果有人退出游戏，他将被视为被杀死。例如，如果忠臣和内奸还活着并且主公退出，反贼将赢得比赛。在真正被杀死之前退出游戏是不良行为。__
+
+__注意：如果内奸杀死了反贼、主公，但是留下了忠臣还活着，内奸没有获胜。__
 
 如果任何一位或一组玩家完成了他，她或他们的目标，他，她或他们将胜利，并且其他玩家将失败。比如说，在图3，反贼杀死了主公，反贼们胜利了。
 
 ![Figure 3](../Figures/Figure-1.3.png)
-
-__注意：如果内奸杀死了反贼、主公，但是留下了忠臣还活着，内奸没有获胜。__
 
 ## 衍生品規則
 
