@@ -52,7 +52,7 @@ else if Sheriff is dead and more than 1 Deputy is alive:
 	nobody wins
 ```
 
-__Caution: If someone quits the game, he will be considered killed. For example, if the Deputy and the Renegade are alive and the Sheriff quits, Outlaws will win the game. Quitting the game before really being killed is bad behavior.__
+__Caution: If someone quits the game, he will be considered killed. For example, if the Deputy and the Renegade are alive and the Sheriff quits, Outlaws will win the game. Sheriff quitting the game when Deputy and Renegade alive and himself is not really being killed is bad behavior.__
 
 __Caution: If the Renegade kills the Outlaws, and the Sheriff, but leaves the Deputy alive, the Renegade does not win the game.__
 
