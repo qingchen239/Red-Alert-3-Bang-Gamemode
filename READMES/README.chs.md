@@ -42,15 +42,16 @@
 这里有一个目标更清晰的版本：
 
 ```
-if Sheriff is dead and more than 1 Outlaws is alive:
+if Sheriff is dead and more than or equal to 1 Outlaws is alive:
 	Outlaws win
 else if Outlaws are dead and Renegate is dead:
 	Sheriff and Deputy win
 else if Outlaws are dead and Renegate is dead and Sheriff is dead:
 	Renegade wins
-else if Sheriff is dead and more than 1 Deputy is alive:
+else if Sheriff is dead and more than or equal to 1 Deputy is alive:
 	nobody wins
 ```
+
 __注意：如果有人退出游戏，他将被视为被杀死。例如，如果忠臣和内奸还活着并且主公退出，反贼将赢得比赛。在真正被杀死之前退出游戏是不良行为。__
 
 __注意：如果内奸杀死了反贼、主公，但是留下了忠臣还活着，内奸没有获胜。__
