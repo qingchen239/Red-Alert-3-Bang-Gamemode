@@ -42,13 +42,13 @@ The objective of the game is different for every role randomly:
 Here is a much clarity version of the objective. 
 
 ```
-if Sheriff is dead and more than 1 Outlaws is alive:
+if Sheriff is dead and more than or equal to 1 Outlaws is alive:
 	Outlaws win
 else if Outlaws are dead and Renegate is dead:
 	Sheriff and Deputy win
 else if Outlaws are dead and Renegate is dead and Sheriff is dead:
 	Renegade wins
-else if Sheriff is dead and more than 1 Deputy is alive:
+else if Sheriff is dead and more than or equal to 1 Deputy is alive:
 	nobody wins
 ```
 
