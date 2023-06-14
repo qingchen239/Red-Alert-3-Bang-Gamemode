@@ -72,4 +72,4 @@ Everyone is free to modify the maps in this repository and to distribute modifie
 
 ## Connect with me
 
-Discord: Qing Chen#1901
+Discord: qingchen239
